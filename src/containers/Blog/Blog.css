@@ -1,4 +1,4 @@
-.Header ul {
+.Blog ul {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -6,18 +6,18 @@
   text-align: center;
 }
 
-.Header li {
+.Blog li {
   display: inline-block;
   margin: 20px;
 }
 
-.Header a {
+.Blog a {
   text-decoration: none;
   color: #000;
 }
 
-.Header a:hover,
-.Header a:active,
-.Header a.active {
+.Blog a:hover,
+.Blog a:active,
+.Blog a.active {
   color: #fa923f;
 }
